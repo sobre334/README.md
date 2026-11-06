@@ -1,0 +1,11 @@
+MONITORAMENTO DO RIO UNA
+
+Nível da água: 2,0 metros
+
+Situação: Normal
+
+Última atualização: Simulação
+
+Este sistema tem como objetivo acompanhar
+o nível da água do Rio Una e ajudar na
+prevenção de enchentes em Palmares.

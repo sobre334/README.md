@@ -4,7 +4,7 @@ Nível da água: 2,0 metros
 
 Situação: ATENÇÃO
 
-Última atualização: Simulação
+Última atualização: Alerta
 
 Este sistema tem como objetivo acompanhar
 o nível da água do Rio Una e ajudar na

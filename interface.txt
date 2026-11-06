@@ -1,0 +1,26 @@
+================================
+    MONITORAMENTO DO RIO UNA
+================================
+
+Local: Palmares - PE
+
+NÍVEL DA ÁGUA: 2,0 metros
+
+SITUAÇÃO: NORMAL
+
+--------------------------------
+
+SISTEMA DE ALERTAS
+
+[OK] Nível normal
+[ ] Atenção
+[ ] Alerta
+[ ] Emergência
+
+--------------------------------
+
+Última atualização: Simulação
+
+Projeto de prevenção de enchentes.
+
+================================

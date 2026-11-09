@@ -2,7 +2,7 @@ MONITORAMENTO DO RIO UNA
 
 Nível da água: 2,0 metros
 
-Situação: ATENÇÃO
+Situação: NORMAL
 
 Última atualização: Alerta
 

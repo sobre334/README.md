@@ -22,3 +22,11 @@ Criar um sistema que permita acompanhar o nível da água do rio e emitir alerta
 
 ## Desenvolvedor
 Projeto desenvolvido individualmente como atividade escolar.
+
+## Referências
+
+Projeto utilizado como referência: [Dam Water Level Sensing and Alert System](https://github.com/lezinhamza-hue/DAM-WATER-LEVEL-SENSING-AND-ALERT-SYSTEM).
+
+Minha cópia (Fork): [Meu Fork](https://github.com/sobre334/DAM-WATER-LEVEL-SENSING-AND-ALERT-SYSTEM).
+
+A principal ideia aproveitada foi a classificação dos níveis de água em diferentes situações de risco: Normal, Atenção, Alerta e Emergência. Essa organização ajuda a identificar situações perigosas e apresentar avisos de forma mais clara.
